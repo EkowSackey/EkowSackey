@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Task Manager CLI in java. 
 - 🌱 I’m currently learning oop concepts in java
 - 👯 I’m looking to collaborate on any backend projects
-- 🤔 I’m looking for help with testin gpractices
+- 🤔 I’m looking for help with Software testing practices
 - 💬 Ask me about chess and skating
 - 📫 How to reach me: ekow.sackey@amalitech.com
 
