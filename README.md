@@ -10,5 +10,5 @@
 - 💬 Ask me about chess and skating
 - 📫 How to reach me: ekow.sackey@amalitech.com
 
-- ⚡ Fun fact: no please👍
+- ⚡ Fun fact: no please
   
